@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+    background-color: #CD5C5C;
+}
+
+#titulo {
+    color: pink;
+    position: relative;
+    top: 50px;
+}
+
+#iniciar {
+    height: 85px;
+    position: relative;
+    top: 200px;
+}
+
+@media only screen and (min-device-width: 470px){}
